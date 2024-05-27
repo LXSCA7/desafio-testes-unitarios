@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
+# Resolução do desafio:
+O desafio consiste na correção dos códigos dos testes unitários em  /TestesUnitarios.Desafio.Tests/ValidacoesStringTests.cs e /TestesUnitarios.Desafio.Tests/ValidacoesListaTests.cs
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
